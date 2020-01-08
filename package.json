@@ -1,0 +1,20 @@
+{
+  "name": "2020_webtraning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-W-9405/2020_WebTraning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y-W-9405/2020_WebTraning/issues"
+  },
+  "homepage": "https://github.com/Y-W-9405/2020_WebTraning#readme"
+  
+}
